@@ -1,0 +1,71 @@
+#main {
+    background: antiquewhite;
+    font-family: arial;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 8px solid grey;
+    border-radius: 25px;
+    
+  }
+  
+  #title {
+   font-size: 75px;
+   color: saddlebrown; 
+  }
+  
+  #img-div {
+    position: relative;
+    text-align: center;
+  }
+  
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 7px solid goldenrod;
+    border-radius: 25px;
+  }
+  
+  #img-caption {
+    font-size: 20px;
+    position: absolute;
+    color: beige;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-style: italic;
+  }
+  
+  #tribute-info {
+   text-align: center;
+   margin-left: 75px;
+   margin-right: 75px; 
+  }
+  
+  #info-head {
+    color: saddlebrown;
+    font-style: italic;
+    font-size: 35px;
+  }
+  
+  .info-para {
+    color: sienna;
+    font-size: 25px;
+  }
+  
+  #book-list {
+    color: sienna;
+    font-size: 20px;
+    list-style-type: none;
+  }
+  
+  #link-list {
+    font-size: 20px;
+    list-style-type: none;
+  }
